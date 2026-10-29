@@ -1,0 +1,11 @@
+ACTIVIDAD 6: ALGORITMO GENETICO CON DEAP
+Problema del viajante (TSP)
+
+Numero de ciudades: 8
+Tamano de poblacion: 100
+Generaciones: 30
+Mejor distancia inicial: 41.09
+Mejor ruta encontrada:
+Ciudad C -> Ciudad B -> Ciudad H -> Ciudad A -> Ciudad G -> Ciudad F -> Ciudad E -> Ciudad D -> Ciudad C
+Distancia de la mejor ruta: 29.92
+Mejor distancia final de la poblacion: 29.92
